@@ -47,3 +47,5 @@
 ## Updates/Bugs
 
 If you've found a bug or would like to propose an update, make a fork of this repo and open a pull request with some comments about an update.
+
+https://rashchukkolya.github.io/JS_Game_Project/build/
