@@ -1,3 +1,5 @@
+https://rashchukkolya.github.io/JS_Game_Project/build/
+
 # Gulp Starter Kit - basic gulp boilerplate
 
 ![banner.png](https://cdn.rawgit.com/axZerk/gulp-starter-kit/741020f0/banner.png)
@@ -48,4 +50,4 @@
 
 If you've found a bug or would like to propose an update, make a fork of this repo and open a pull request with some comments about an update.
 
-https://rashchukkolya.github.io/JS_Game_Project/build/
+
